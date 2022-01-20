@@ -1,7 +1,8 @@
 header{
-    background-image: url(learning3.jpg);
-    background-repeat: no-repeat;
-    background-size: 2000px 100px;
+    height: 200px;
+    background-image: url(learning4.jpg);
+    background-repeat:no-repeat;
+    background-size: 1500px 200px;
 
 }
 body{

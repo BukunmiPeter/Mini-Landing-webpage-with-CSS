@@ -1,0 +1,121 @@
+header{
+    background-image: url(learning3.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 100px;
+
+}
+body{
+    overflow:hidde;
+}
+ul{
+list-style-type: none;
+background-color: gold;
+overflow: hidden;
+
+}
+li{
+    float: left;
+    text-align: center;
+}
+
+a{
+text-decoration: none;
+padding: 12px;
+
+color: white;
+display: block;
+}
+
+a:hover{
+    background-color:black;
+}
+
+marquee{
+    font-size: 40px;
+    color: rgb(255, 115, 0);
+}
+h1{
+    font-size: 25px;
+    color: rgb(0, 217, 255);
+    text-align: center;
+}
+
+h2{
+    font-size: 25px;
+    color: rgb(207, 57, 77);
+    text-align: center;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#image2{
+  
+}
+
+div{    
+    border: 10px solid #f3f1f1;
+    border-radius: 10px;
+}
+#section1{
+    display: flex;
+}
+#section2{
+    display: flex;
+}
+.section3{
+    display: flex;
+    border-color: white;
+   
+}
+
+.div1{
+    width: 600px;
+    height: 200px;
+}
+
+.div2{
+    width: 600px;
+    height: 200px;
+}
+
+.div3{
+    width: 600px;
+    height: 350px; 
+}
+
+.About{
+    width: 600px;
+    height: 300px;
+    text-align:center;
+    margin-right: 100px;
+    background-color: blueviolet;
+    
+}
+
+.more{
+    width: 500px;
+    height: 300px;
+    text-align:center;
+    margin-right: 100px;
+    background-color: blueviolet;
+
+
+}
+
+
+.contact{
+    width: 500px;
+    height: 300px;
+    text-align:center;
+    background-color: blueviolet;
+   
+}
+
+.chat{
+    position: fixed;
+    left: 1050px;
+    bottom: 10px;
+    color: red;
+}
